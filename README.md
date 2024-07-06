@@ -42,14 +42,14 @@ npm run dev
 
 # Features
  
-# Task Management
+## Task Management
 
 - Add Tasks: Quickly add new tasks to your list.
 - Edit Tasks: Modify existing tasks as needed.
 - Delete Tasks: Remove tasks that are no longer relevant.
 - Mark as Complete: Toggle tasks as complete to track progress.
 
-# User-Friendly Interface
+## User-Friendly Interface
 
 - Task Counter: Display the total number of tasks and tasks completed.
 - Clear All Completed: Remove all completed tasks with a single click.
