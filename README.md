@@ -2,6 +2,8 @@
 
 React Todo App is a powerful yet simple task management application built using React and Context API. It provides users with an intuitive interface to manage their daily tasks efficiently. With features like task addition, editing, deletion, marking tasks as complete, and a task counter, staying organized has never been easier.
 
+- **hosted on**: https://to-do-app-react-sachinmehar21s-projects.vercel.app/
+
 # Table of Content 
  
  • Installation
