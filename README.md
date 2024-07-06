@@ -12,7 +12,7 @@ React Todo App is a powerful yet simple task management application built using 
  • Contact
 
 
-## Installation
+# Installation
 
 1. Clone the repo
 
@@ -31,7 +31,7 @@ React Todo App is a powerful yet simple task management application built using 
 ```
 
 
-## Usage
+# Usage
 
 1. Start the development server:
 ``` 
@@ -42,14 +42,14 @@ npm run dev
 
 # Features
  
-## Task Management
+# Task Management
 
 - Add Tasks: Quickly add new tasks to your list.
 - Edit Tasks: Modify existing tasks as needed.
 - Delete Tasks: Remove tasks that are no longer relevant.
 - Mark as Complete: Toggle tasks as complete to track progress.
 
-## User-Friendly Interface
+# User-Friendly Interface
 
 - Task Counter: Display the total number of tasks and tasks completed.
 - Clear All Completed: Remove all completed tasks with a single click.
@@ -58,7 +58,7 @@ npm run dev
 - State Management: Utilizes Context API for efficient state management across components.
 - Global Accessibility: Access task data from any component without prop drilling.
 
-## Contributing
+# Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.\
 
@@ -90,7 +90,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-## Contact
+# Contact
 
 Sachin Mehar - Sachinmehar21@gmail.com
 
