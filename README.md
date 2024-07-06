@@ -22,7 +22,7 @@ React Todo App is a powerful yet simple task management application built using 
 2. Navigate to the project directory:
 
 ```
-  cd instaspams
+  cd To-do-app-React
 ```
 3. Install dependencies:
 
@@ -35,9 +35,9 @@ React Todo App is a powerful yet simple task management application built using 
 
 1. Start the development server:
 ``` 
-npx nodemon
+npm run dev
 ```
-2. Open your browser and navigate to http://localhost:3000 to see the app in action.
+2. Open your browser and navigate to http://localhost:5173 to see the app in action.
  
 #Features
 ##Task Management
