@@ -17,7 +17,7 @@ React Todo App is a powerful yet simple task management application built using 
 1. Clone the repo
 
 ```
-  git clone https://github.com/sachinmeha21/instaspams.git
+  git clone https://github.com/Sachinmehar21/To-do-app-React.git
 ```
 2. Navigate to the project directory:
 
@@ -90,5 +90,5 @@ Sachin Mehar - Sachinmehar21@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/sachinmehar/
 
-Project Link: https://github.com/Sachinmehar21/InstaSpams.git
+Project Link: https://github.com/Sachinmehar21/To-do-app-React.git
 
