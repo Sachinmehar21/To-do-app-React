@@ -39,19 +39,25 @@ npm run dev
 ```
 2. Open your browser and navigate to http://localhost:5173 to see the app in action.
  
-#Features
-##Task Management
-Add Tasks: Quickly add new tasks to your list.
-Edit Tasks: Modify existing tasks as needed.
-Delete Tasks: Remove tasks that are no longer relevant.
-Mark as Complete: Toggle tasks as complete to track progress.
-##User-Friendly Interface
-Task Counter: Display the total number of tasks and tasks completed.
-Clear All Completed: Remove all completed tasks with a single click.
-Responsive Design: Enjoy a seamless experience across various devices.
-##Context API Integration
-State Management: Utilizes Context API for efficient state management across components.
-Global Accessibility: Access task data from any component without prop drilling.
+
+# Features
+ 
+## Task Management
+
+- Add Tasks: Quickly add new tasks to your list.
+- Edit Tasks: Modify existing tasks as needed.
+- Delete Tasks: Remove tasks that are no longer relevant.
+- Mark as Complete: Toggle tasks as complete to track progress.
+
+## User-Friendly Interface
+
+- Task Counter: Display the total number of tasks and tasks completed.
+- Clear All Completed: Remove all completed tasks with a single click.
+- Responsive Design: Enjoy a seamless experience across various devices.
+## Context API Integration
+- State Management: Utilizes Context API for efficient state management across components.
+- Global Accessibility: Access task data from any component without prop drilling.
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.\
